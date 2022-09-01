@@ -3,3 +3,4 @@ i am working now
  Hidden files 
 I love numbers
 Welcome
+Betty in my first directory
